@@ -6,7 +6,7 @@ Web development allows you to build beautiful websites that scale well on multip
 For example, the top Robo Investment Advisors like wealth front, Ellevest, Betterment etc. have been good news for consumers looking for low cost financial advice and looking forward to investing. These bots answer real-world questions about advising consumers regarding their investment portfolios serving as the best low-cost investment advisor. These bot services provide modern portfolio theory and the efficient market hypothesis. The bot plugs your answers into an algorithm that determines the kind of portfolio and asset allocation that's appropriate for your age, risk tolerance and time horizon. Hence, we chose to work on our own “The InvestoBot” to help you with your financial needs.
 
 # Technologies used:
-Python - NLTK, Logical Regression, XGBoost, Random Forest, Aritifical Neural Networks
-AWS, 
-Slack,
-API -Alpha Vantage
+    Python - NLTK, Logical Regression, XGBoost, Random Forest, Aritifical Neural Networks
+    AWS, 
+    Slack,
+    API -Alpha Vantage
