@@ -1,5 +1,7 @@
 # InvestoBot_Public
-InvestoBot
+
+#Note:
+This repo contains project report & screenshots only. It is a public repository. The main repository containing the project code is private. URL to main repo https://github.com/PrasadAroskar/InvestoBot
 
 # Why Chatbot?
 Web development allows you to build beautiful websites that scale well on multiple devices. Whether you use Siri, rely on Alexa or have a Roomba, there's no escaping the fact that robots are part of our daily lives now. It's not a bad thing that we can automate some of life's most mundane, tedious tasks. Although Apps are everywhere, and people are sick of them: between 80-90% of apps are used once and then deleted. The one exception is messaging apps, which account for 91% of time spent on mobiles in the U.S. These messaging apps are of different and prove to be useful in a variety of aspects.
